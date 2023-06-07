@@ -8,7 +8,7 @@ library(MASS)
 #install.packages('e1071')
 #install.packages('MASS')   
 
-setwd('C:/Users/joao.kreitlon/Documents/IME/2023.1/PDI')
+setwd('C:/Users/joao.kreitlon/Documents/IME/2023.1/PDI/VE4/data')
 
 img<-brick('WV3_VE3.tif')
 
